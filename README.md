@@ -19,9 +19,9 @@ wget -N https://cdn.jsdelivr.net/gh/kkkyg/CFwarp/CFwarp.sh && bash CFwarp.sh
 进入脚本快捷方式 ```bash CFwarp.sh```
 
 旧版脚本
-先
+先【team账号】
 ```
-wget -N https://raw.githubusercontent.com/visense/nf/main/warp/menu.sh && bash menu.sh【team账号】
+wget -N https://raw.githubusercontent.com/visense/nf/main/warp/menu.sh && bash menu.sh
 ```
 然后用下面的脚本刷
 
