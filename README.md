@@ -18,6 +18,11 @@ wget -N https://cdn.jsdelivr.net/gh/kkkyg/CFwarp/CFwarp.sh && bash CFwarp.sh
 
 进入脚本快捷方式 ```bash CFwarp.sh```
 
+旧版脚本
+```
+wget -N https://raw.githubusercontent.com/visense/nf/main/CFwarp.sh && bash CFwarp.sh
+```
+进入脚本快捷方式 ```bash CFwarp.sh```
 
 ### 相关视频教程及项目
 
